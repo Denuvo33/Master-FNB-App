@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "834158685712",
+    "firebase_url": "https://newfoodapp-a6edf-default-rtdb.firebaseio.com",
+    "project_id": "newfoodapp-a6edf",
+    "storage_bucket": "newfoodapp-a6edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834158685712:android:2809d692972d466f746495",
+        "android_client_info": {
+          "package_name": "com.example.master_foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834158685712-4qqgj97q6vt1fvhtv87ihqjo1ovqvl0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91XlquS207_aCDHMh091IZpKX3C1htbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834158685712-4qqgj97q6vt1fvhtv87ihqjo1ovqvl0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834158685712-710hr8ijmbs309jcoq2r7mdbep7au6t6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.masterFoodapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834158685712:android:cbcceef920539248746495",
+        "android_client_info": {
+          "package_name": "com.example.new_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834158685712-jhm625j2nteeuuhupa8bibk11mub1jsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_food_app",
+            "certificate_hash": "2fb57a6b71029c027003d4f29cb0c05fa36a5910"
+          }
+        },
+        {
+          "client_id": "834158685712-4qqgj97q6vt1fvhtv87ihqjo1ovqvl0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91XlquS207_aCDHMh091IZpKX3C1htbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834158685712-4qqgj97q6vt1fvhtv87ihqjo1ovqvl0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834158685712-710hr8ijmbs309jcoq2r7mdbep7au6t6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.masterFoodapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
