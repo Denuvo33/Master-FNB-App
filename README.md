@@ -1,16 +1,8 @@
-# master_foodapp
+#Master FNB App
 
-A new Flutter project.
+This is the master App from FNB App(https://github.com/Denuvo33/FNB-App).
 
-## Getting Started
+Here the owner can receive the order or update the order status.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1693824409](https://github.com/Denuvo33/Master-FNB-App/assets/106959180/a9247f39-1faf-42b6-96bc-6b15aeae1571)
